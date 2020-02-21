@@ -1,3 +1,7 @@
+AdonidesFall: code
+DesignDocs: PDFs of design docs
+Art: Assets to use
+
 The basic GUI is functional:
 
 -> New Game initializes a blank game state
