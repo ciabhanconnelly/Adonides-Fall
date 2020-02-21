@@ -27,13 +27,15 @@ Some assets/code are placeholders:
 -> Placeholder art is used for the profile and gameplay screens. These will later be dynamic
 -> Knowledges/ideas should ideally be abstracted/made dynamic in the code
 -> Continue game button does nothing until save states are implimented (with SQL)
+-> Help menu is a placeholder.
 
 Bugs:
 -> Issues with help menu detecting which button was pressed
--> Changing text opacity
+-> Text opacity doesn't change with appropriate button press
 
 Current tasks:
 -> Create a class that handles options/results of choices
 -> Add save states
 	-> update 'continue' button
 	-> update 'reset game' in options
+-> Add help menu text
