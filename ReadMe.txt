@@ -22,6 +22,12 @@ The basic GUI is functional:
 -> Gameplay buttons change text
 	-> Need to debug the button that changes text opacity
 
+Some assets/code are placeholders:
+-> Rating bar is used for volume/textsize. Some other icon should replace this.
+-> Placeholder art is used for the profile and gameplay screens. These will later be dynamic
+-> Knowledges/ideas should ideally be abstracted/made dynamic in the code
+-> Continue game button does nothing until save states are implimented (with SQL)
+
 Bugs:
 -> Issues with help menu detecting which button was pressed
 -> Changing text opacity
