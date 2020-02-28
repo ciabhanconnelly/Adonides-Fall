@@ -6,6 +6,13 @@ public class Mood {
     private int excitedCalm;
     private int truth;
 
+    public Mood(int hs, int pp, int ec, int t){
+        happySad=hs;
+        passivePushy=pp;
+        excitedCalm=ec;
+        truth=t;
+    }
+
     public int getHappySad() {
         return happySad;
     }
